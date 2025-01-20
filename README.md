@@ -1,3 +1,4 @@
+!libft.webp
 Le projet Libft de l'École 42 consiste à recréer une bibliothèque standard en langage C, en implémentant un ensemble de fonctions essentielles utilisées couramment en programmation. Ce projet a pour but de consolider les bases du langage C, d’approfondir la compréhension des mécanismes bas niveau, et de développer des compétences en gestion de mémoire, en manipulation de pointeurs, et en création de structures de données personnalisées.
 
 Objectifs pédagogiques :
